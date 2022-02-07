@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = dvdsms@gmail.com
+	name = David Simoes
